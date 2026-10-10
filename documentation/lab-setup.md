@@ -62,6 +62,3 @@ Through this lab, I developed practical knowledge of:
 - Basic SOC analyst workflow
 - MITRE ATT&CK framework
 
-## Disclaimer
-
-This project is created for educational and defensive cybersecurity purposes in an isolated lab environment.
